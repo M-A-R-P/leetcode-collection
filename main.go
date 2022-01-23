@@ -29,4 +29,13 @@ func main() {
 	// fmt.Println(problems.ValidMountainArray([]int{0, 2, 3, 3, 5, 2, 1, 0})) // false
 	// fmt.Println(problems.ValidMountainArray([]int{9, 8, 7, 6, 5}))          // false
 	// fmt.Println(problems.TwoSum([]int{2, 7, 11, 15, -5}, 6))
+	// fmt.Println(problems.ReplaceElements([]int{17, 18, 5, 4, 6, 1}))
+	// fmt.Println(problems.ReplaceElements([]int{-400}))
+	// fmt.Println(problems.RemoveDuplicatesTwoPointer([]int{0, 0, 0, 0, 1, 1, 1, 2, 2, 3, 3, 4, 4, 4}))
+	// fmt.Println(problems.RemoveDuplicatesTwoPointer([]int{1, 1, 2, 2}))
+	// fmt.Println(problems.MoveZeroes([]int{0, 3, 0, 1, 2}))
+	// fmt.Println(problems.MoveZeroes([]int{0, 1, 0, 0, 0, 3, 5}))
+	// fmt.Println(problems.MoveZeroes([]int{2, 1}))
+	fmt.Println(problems.SortArrayByParity([]int{3, 1, 2, 4}))
+	fmt.Println(problems.SortArrayByParity([]int{0}))
 }
