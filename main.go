@@ -28,4 +28,5 @@ func main() {
 	// fmt.Println(problems.ValidMountainArray([]int{0, 2, 3, 4, 5, 2, 1, 0})) // true
 	// fmt.Println(problems.ValidMountainArray([]int{0, 2, 3, 3, 5, 2, 1, 0})) // false
 	// fmt.Println(problems.ValidMountainArray([]int{9, 8, 7, 6, 5}))          // false
+	// fmt.Println(problems.TwoSum([]int{2, 7, 11, 15, -5}, 6))
 }
